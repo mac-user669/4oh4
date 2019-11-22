@@ -4,7 +4,7 @@ THEOS_BUILD_DIR = Packages
 
 include theos/makefiles/common.mk
 
-TWEAK_NAME = TokeTime
+TWEAK_NAME = 4oh4
 TokeTime_FILES = Tweak.xm
 TokeTime_FRAMEWORKS = UIKit
 TokeTime_FRAMEWORKS += CoreGraphics

@@ -1,9 +1,9 @@
-Package: com.phillipt.toketime
-Name: TokeTime
+Package: com.cooper.4oh4
+Name: 4oh4
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Tokin'
-Maintainer: Phillip Tennen
-Author: Phillip Tennen
+Description: 4:04 Not Found
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Author: mac-user669 <cooper@cooperhull.com>
 Section: Tweaks

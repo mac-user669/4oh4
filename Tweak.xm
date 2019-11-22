@@ -18,8 +18,8 @@
     UIView *v = [self view];
     
     // you can also convert them
-    if([[NSString stringWithFormat: @"%@", newDateString] isEqualToString: @"04:20"] || [[NSString stringWithFormat: @"%@", newDateString] isEqualToString: @"4:20"] || [[NSString stringWithFormat: @"%@", newDateString] isEqualToString: @"16:20"]) {
-      UIImageView *snoopImageView = [[UIImageView alloc] initWithImage:[UIImage imageWithContentsOfFile:@"/Library/Application Support/HighDate/s.jpg"]];
+    if([[NSString stringWithFormat: @"%@", newDateString] isEqualToString: @"04:04"] || [[NSString stringWithFormat: @"%@", newDateString] isEqualToString: @"4:04"] || [[NSString stringWithFormat: @"%@", newDateString] isEqualToString: @"16:04"]) {
+      UIImageView *snoopImageView = [[UIImageView alloc] initWithImage:[UIImage imageWithContentsOfFile:@"/Library/Application Support/4oh4/4oh4.png"]];
       snoopImageView.frame = v.superview.bounds;
       snoopImageView.tag = kOverlayViewTag;
       snoopImageView.contentMode = UIViewContentModeScaleAspectFill;
